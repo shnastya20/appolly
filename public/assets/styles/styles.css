@@ -55,9 +55,9 @@ button {
     transition: all .25s ease;
     cursor: pointer;
     
-    &:hover {
+    /* &:hover {
         filter: brightness( var(--brightness-hover));
-    }
+    } */
 }
 
 ul {
